@@ -4,8 +4,12 @@
 
 ---
 
-## 正在寻找
-RevOps、业务分析、FinOps 管理岗位
+## 当前状态
+
+全力备考 CPA（会计/财管/税法），暂不主动看机会。
+
+方向仍是 RevOps / 业务分析 / FinOps 管理，不拒绝天上掉下来的有趣 offer ☕
+
 
 ## 联系方式
 yejmin@foxmail.com
