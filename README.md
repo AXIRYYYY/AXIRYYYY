@@ -29,16 +29,6 @@
 
 ---
 
-### 🏆 GitHub 动态
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AXIRYYYY&theme=flat&column=7&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXIRYYYY&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
 ---
 
 ### 🔧 Tech Stack
